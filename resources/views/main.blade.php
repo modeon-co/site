@@ -22,7 +22,7 @@
         <meta property='og:image' content="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAo8AAAAJDA5ZjEwYzYxLWYzMzYtNGFiZi05YzcwLTUwN2JhYWU0MTk5Mg.png">
         <meta property="og:type" content="website">
 
-        <link rel="shortcut icon" href="favicon.png">
+        <link rel="shortcut icon" href="/img/favicon.png">
 
         <title>Modeon Devhouse</title>
 
