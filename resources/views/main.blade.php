@@ -191,7 +191,7 @@
                         <div class="col-sm-4">
                             <img src="/img/profile_anderson_oliveira.jpg" alt="Services">
                             <h4>Anderson Oliveira</h4>
-                            <p>...</p>
+                            <p>Cinéfilo, chocólatra e designer nas horas vagas. <br>Ahh, também sou sócio da Modeon!</p>
                         </div>
                     </div>
                 </div>
