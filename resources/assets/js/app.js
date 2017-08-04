@@ -12,11 +12,11 @@ $(document).ready(function(){
         }
     });
 
-    $('#menuToggle, .menu-close').on('click', function(){
-        $('#menuToggle').toggleClass('active');
-        $('body').toggleClass('body-push-toleft');
-        $('#menu').toggleClass('menu-open');
-    });
+    // $('#menuToggle, .menu-close').on('click', function(){
+    //     $('#menuToggle').toggleClass('active');
+    //     $('body').toggleClass('body-push-toleft');
+    //     $('#menu').toggleClass('menu-open');
+    // });
 
     $('#form_contact').submit(function(event) {
         $('.waiting-text').show(100);
