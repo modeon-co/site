@@ -45,7 +45,7 @@
         <!-- <script src="assets/js/modernizr.custom.js"></script> -->
     </head>
 
-    <body>
+    <body data-spy="scroll" data-target="#nav-tabs">
 
         <nav class="navbar navbar-default navbar-fixed-top">
             <div class="container-fluid">
@@ -63,13 +63,14 @@
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <div id="nav-tabs" class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="#about">Sobre</a></li>
                         <li><a href="#services">Serviços</a></li>
                         <li><a href="#portfolio">Portfólio</a></li>
                         <li><a href="#team">Equipe</a></li>
                         <li><a href="#contact">Contato</a></li>
+                        <li><a href="#address">Endereço</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
@@ -104,16 +105,16 @@
                         </p>
                         <hr>
                         <p>
-                            Nos importamos com a sua presença na internet.
+                            Nos importamos com a sua <b>presença</b> na internet.
                         </p>
                         <p>
-                            Gostamos daquilo que é comunicável.
+                            Gostamos daquilo que é <b>comunicável</b>.
                         </p>
                         <p>
-                            Acreditamos que a tecnologia é uma forte aliada.
+                            Acreditamos que a <b>tecnologia</b> é uma forte aliada.
                         </p>
                         <p>
-                            Sabemos que o relacionamento é extremamente importante.
+                            Sabemos que o <b>relacionamento</b> é extremamente importante.
                         </p>
                     </div>
                 </div>
@@ -254,7 +255,7 @@
                             <b>Venha tomar um café conosco!</b>
                         </p>
                         <br>
-                        <h4>INFORMAÇÕES PARA CONTATO</h4>
+                        <h4>MAIS INFORMAÇÕES PARA CONTATO</h4>
                         <p>
                             WhatApp: +55 74 9 88464461<br/>
                             Email: <a href="mailto:contato@modeon.co">contato@modeon.co</a>
