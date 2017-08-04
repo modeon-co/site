@@ -87,7 +87,7 @@ gulp.task('browserSync', ['connect-php'], function() {
     gulp.watch('resources/assets/js/**/*.js', ['minify-js', 'reload']);
     gulp.watch('resources/assets/cacto/controllers/*.js', ['controllers', 'reload']);
     gulp.watch('resources/assets/cacto/views/*.html', ['views', 'reload']);
-    gulp.watch('resources/views/*.blade.php', ['reload']);
+    gulp.watch('resources/views/**/*.blade.php', ['reload']);
     gulp.watch('routes/**/*', ['reload']);
 });
 
