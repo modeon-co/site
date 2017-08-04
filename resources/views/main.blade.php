@@ -4,7 +4,11 @@
    @parent
 @endsection
 
-@section('title', 'Modoen Devhouse')
+@section('title', 'Modeon Devhouse')
+
+@section('menu-links')
+    @parent
+@endsection
 
 @section('content')
 
@@ -66,7 +70,7 @@
                     <div class="col-sm-4">
                         <img src="/img/services_02.jpg" alt="Services">
                         <h4>Desenvolvimento</h4>
-                        <p>Desenvolvemos sites, softwares e aplicativos intuitovos para que os seus clientes possam interagir com o seu negócio.</p>
+                        <p>Desenvolvemos sites, softwares e aplicativos intuitivos para que os seus clientes possam interagir com o seu negócio.</p>
                     </div>
                     <div class="col-sm-4">
                         <img src="/img/services_03.jpg" alt="Services">
@@ -83,13 +87,13 @@
             <h1>Portfólio</h1>
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <a href="/portfolio/sublime">
-                        <img src="/img/portfolio_01.jpg" alt="Services">
+                    <a href="/portfolio/feiradenoivas">
+                        <img src="/img/portfolio_06.jpg" alt="Services">
                         <div class="overlay"></div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <a href="/portfolio/kliciapires">
+                    <a href="/portfolio/klicia">
                         <img src="/img/portfolio_02.jpg" alt="Services">
                         <div class="overlay"></div>
                     </a>
@@ -101,16 +105,22 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <img src="/img/portfolio_01.jpg" alt="Services">
-                    <div class="overlay"></div>
+                    <a href="/portfolio/sublimefts">
+                        <img src="/img/portfolio_01.jpg" alt="Services">
+                        <div class="overlay"></div>
+                    </a>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <img src="/img/portfolio_01.jpg" alt="Services">
-                    <div class="overlay"></div>
+                    <a href="/portfolio/barbizan">
+                        <img src="/img/portfolio_04.jpg" alt="Services">
+                        <div class="overlay"></div>
+                    </a>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <img src="/img/portfolio_01.jpg" alt="Services">
-                    <div class="overlay"></div>
+                    <a href="/portfolio/vivaleve">
+                        <img src="/img/portfolio_05.jpg" alt="Services">
+                        <div class="overlay"></div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -179,3 +189,5 @@
     </div>
 
 @endsection
+
+@section('footer_id', 'address')

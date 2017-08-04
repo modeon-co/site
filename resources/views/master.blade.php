@@ -53,26 +53,28 @@
             <div class="container-fluid">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-tabs" aria-expanded="false">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">
+                    <a class="navbar-brand" href="/">
                         <img src="/img/modeon.svg" alt="Modeon Devhouse">
                     </a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
-                <div id="nav-tabs" class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <div id="nav-tabs" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#about">Sobre</a></li>
-                        <li><a href="#services">Serviços</a></li>
-                        <li><a href="#portfolio">Portfólio</a></li>
-                        <li><a href="#team">Equipe</a></li>
-                        <li><a href="#contact">Contato</a></li>
-                        <li><a href="#address">Endereço</a></li>
+                        @section('menu-links')
+                        <li><a href="/#about">Sobre</a></li>
+                        <li><a href="/#services">Serviços</a></li>
+                        <li><a href="/#portfolio">Portfólio</a></li>
+                        <li><a href="/#team">Equipe</a></li>
+                        <li><a href="/#contact">Contato</a></li>
+                        <li><a href="/#address">Endereço</a></li>
+                        @show
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
@@ -80,7 +82,7 @@
 
         @yield('content')
 
-        <footer id="address">
+        <footer id="@yield('footer_id')">
             <div class="container section">
                 <div class="row">
                     <div class="col-lg-6">
@@ -111,12 +113,12 @@
             <div id="social" class="container">
                 <div class="row">
                     <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-                        <img src="/img/social/linkedin-square.svg" alt="Social">
-                        <img src="/img/social/facebook-square.svg" alt="Social">
-                        <img src="/img/social/instagram.svg" alt="Social">
-                        <img src="/img/social/twitter-square.svg" alt="Social">
-                        <img src="/img/social/youtube-square.svg" alt="Social">
-                        <img src="/img/social/google-plus-square.svg" alt="Social">
+                        <a href="https://www.linkedin.com/company-beta/22312233/" target="_blank"><img src="/img/social/linkedin-square.svg" alt="Social"></a>
+                        <a href="https://www.facebook.com/modeon.co" target="_blank"><img src="/img/social/facebook-square.svg" alt="Social"></a>
+                        <a href="https://www.instagram.com/modeon.co/" target="_blank"><img src="/img/social/instagram.svg" alt="Social"></a>
+                        <a href="https://twitter.com/modeon_co" target="_blank"><img src="/img/social/twitter-square.svg" alt="Social"></a>
+                        <a href="https://www.youtube.com/channel/UCYkWN28dCQdwlnkdYw8omhw" target="_blank"><img src="/img/social/youtube-square.svg" alt="Social"></a>
+                        <a href="https://plus.google.com/u/1/108026992514718319934" target="_blank"><img src="/img/social/google-plus-square.svg" alt="Social"></a>
                     </div>
                 </div>
             </div>

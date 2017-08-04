@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     $('a').on('click', function(event) {
-        if (this.hash !== '') {
+        if (this.hash !== '' && this.hash !== '#carousel') {
             event.preventDefault();
             var hash = this.hash;
             $('html, body').animate({
@@ -23,7 +23,9 @@ $(document).ready(function(){
         var formData = {
             'name': $('input[name="name"]').val(),
             'email': $('input[name="email"]').val(),
-            'phone': $('input[name="phone"]').val()
+            'phone': $('input[name="phone"]').val(),
+            'demand': $('select[name="demand"]').val(),
+            'observation': $('textarea[name="observation"]').val()
         };
         $.ajax({
             url: '/contact/receipt',
