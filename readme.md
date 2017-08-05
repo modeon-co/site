@@ -9,7 +9,6 @@
 Instale todas as dependências necessárias para instalar o site da Modeon Devhouse.
 
     $ sudo apt-get update && sudo apt-get install curl git php7.0 php7.0-mcrypt yarn
-    $ sudo a2enmod rewrite && sudo php5nmod mcrypt && sudo service apache2 restart
 
 #### 2. Baixe o projeto
 
