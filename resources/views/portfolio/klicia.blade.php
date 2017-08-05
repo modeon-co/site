@@ -2,14 +2,14 @@
 
 @section('og')
    <meta property="og:title" content="Sua marca é sua presença web">
-    <meta property="og:description" content="Klícia Pires - Serviço de criação de marca, site e impressos desenvolvido pela Modeon Devhouse.">
+    <meta property="og:description" content="Klícia Pires - Assessoria e Cerimonial - Serviço de criação de marca, site e impressos desenvolvido pela Modeon Devhouse.">
     <meta property="og:url" content="http://www.modeon.co/portfolio/klicia">
     <meta property="og:site_name" content="Modeon Devhouse">
     <meta property='og:image' content="http://www.modeon.co/img/portfolio_02.jpg">
     <meta property="og:type" content="website">
 @endsection
 
-@section('title', 'Modoen Devhouse - Klícia Pires')
+@section('title', 'Modeon Devhouse - Klícia Pires - Assessoria e Cerimonial')
 
 @section('menu-links')
     <li><a href="/">Início</a></li>
@@ -58,15 +58,15 @@
                 </div>
 
                 <div class="col-lg-4">
-                    <h3>Mussum</h3>
+                    <h3>Klícia Pires - Assessoria e Cerimonial</h3>
                     <p>
-                        Mussum Ipsum, cacilds vidis litro abertis. Suco de cevadiss deixa as pessoas mais interessantis. Quem num gosta di mé, boa gentis num é. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Si num tem leite então bota uma pinga aí cumpadi!
+                      <a href="http://www.kliciapires.com/" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i> http://www.kliciapires.com/</a>
                     </p>
                     <p>
-                        Per aumento de cachacis, eu reclamis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Atirei o pau no gatis, per gatis num morreus. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.
+                        Empreendedora, Engenheira de Produção e romântica assumida, a Klícia pires nos procurou para criarmos sua marca e site.
                     </p>
                     <p>
-                        Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Paisis, filhis, espiritis santis. Manduma pindureta quium dia nois paga. Delegadis gente finis, bibendum egestas augue arcu ut est.
+                        O resultado não poderia ser diferente, pois cumpre o objetivo de comunicar as qualidades de uma profissional competente, caprichosa e detalhista.
                     </p>
                 </div>
 

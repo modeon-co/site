@@ -9,7 +9,7 @@
     <meta property="og:type" content="website">
 @endsection
 
-@section('title', 'Modoen Devhouse - Viva Leve')
+@section('title', 'Modeon Devhouse - Viva Leve')
 
 @section('menu-links')
     <li><a href="/">Início</a></li>
@@ -58,15 +58,15 @@
                 </div>
 
                 <div class="col-lg-4">
-                    <h3>Mussum</h3>
+                    <h3>Viva Leve</h3>
                     <p>
-                        Mussum Ipsum, cacilds vidis litro abertis. Suco de cevadiss deixa as pessoas mais interessantis. Quem num gosta di mé, boa gentis num é. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Si num tem leite então bota uma pinga aí cumpadi!
+                      <a href="https://www.instagram.com/vivaleve_karin/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> https://www.instagram.com/vivaleve_karin/</a>
                     </p>
                     <p>
-                        Per aumento de cachacis, eu reclamis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Atirei o pau no gatis, per gatis num morreus. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.
+                        Saúde é vital e está fortemente ligada à alimentação. Karin Joana , ao pensar nisso, decidiu criar uma empresa especializada em alimentação saudável.
                     </p>
                     <p>
-                        Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Paisis, filhis, espiritis santis. Manduma pindureta quium dia nois paga. Delegadis gente finis, bibendum egestas augue arcu ut est.
+                        Fomos responsáveis pelo nome, o logotipo e o posicionamento da marca.
                     </p>
                 </div>
 

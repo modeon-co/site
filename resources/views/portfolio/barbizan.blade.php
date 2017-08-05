@@ -9,7 +9,7 @@
     <meta property="og:type" content="website">
 @endsection
 
-@section('title', 'Modoen Devhouse - João Barbizan')
+@section('title', 'Modeon Devhouse - Dr. João Barbizan')
 
 @section('menu-links')
     <li><a href="/">Início</a></li>
@@ -35,13 +35,13 @@
                       <!-- Wrapper for slides -->
                       <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                          <img src="/img/portfolio/barbizan/01.jpg" alt="João Barbizan">
+                          <img src="/img/portfolio/barbizan/01.jpg" alt="Dr. João Barbizan">
                         </div>
                         <div class="item">
-                          <img src="/img/portfolio/barbizan/02.jpg" alt="João Barbizan">
+                          <img src="/img/portfolio/barbizan/02.jpg" alt="Dr. João Barbizan">
                         </div>
                         <div class="item">
-                          <img src="/img/portfolio/barbizan/03.jpg" alt="João Barbizan">
+                          <img src="/img/portfolio/barbizan/03.jpg" alt="Dr. João Barbizan">
                         </div>
                       </div>
 
@@ -58,15 +58,15 @@
                 </div>
 
                 <div class="col-lg-4">
-                    <h3>Mussum</h3>
+                    <h3>Dr. João Barbizan</h3>
                     <p>
-                        Mussum Ipsum, cacilds vidis litro abertis. Suco de cevadiss deixa as pessoas mais interessantis. Quem num gosta di mé, boa gentis num é. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Si num tem leite então bota uma pinga aí cumpadi!
+                      <a href="http://www.joaobarbizan.com.br/" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i> http://www.joaobarbizan.com.br/</a>
                     </p>
                     <p>
-                        Per aumento de cachacis, eu reclamis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Atirei o pau no gatis, per gatis num morreus. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.
+                        João Barbizam é cirurgião dentista especializado em Implantodontia e Harmonização Facial. Ele nos procurou porque precisava de uma marca forte que o representasse junto a seus clientes - tanto atuais como potenciais.
                     </p>
                     <p>
-                        Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Paisis, filhis, espiritis santis. Manduma pindureta quium dia nois paga. Delegadis gente finis, bibendum egestas augue arcu ut est.
+                        Também realizamos o serviço de criação, acompanhamento e revisão de todas as mídias digitais. O resultado de nossos esforços foi uma marca sólida que transmite confiança, credibilidade e conforto.
                     </p>
                 </div>
 

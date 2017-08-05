@@ -9,7 +9,7 @@
     <meta property="og:type" content="website">
 @endsection
 
-@section('title', 'Modoen Devhouse - Viva Leve')
+@section('title', 'Modeon Devhouse - Feira de Noivas')
 
 @section('menu-links')
     <li><a href="/">Início</a></li>
@@ -55,15 +55,18 @@
                 </div>
 
                 <div class="col-lg-4">
-                    <h3>Mussum</h3>
+                    <h3>Feira de Noivas do Vale</h3>
                     <p>
-                        Mussum Ipsum, cacilds vidis litro abertis. Suco de cevadiss deixa as pessoas mais interessantis. Quem num gosta di mé, boa gentis num é. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Si num tem leite então bota uma pinga aí cumpadi!
+                      <a href="http://www.feiradenoivasdovale.com/" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i> http://www.feiradenoivasdovale.com/</a>
                     </p>
                     <p>
-                        Per aumento de cachacis, eu reclamis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Atirei o pau no gatis, per gatis num morreus. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.
+                        Além de um trabalho especial de otimização para fácil localização pelos buscadores, a Modeon incluiu no site um sistema de inscrições por email.
                     </p>
                     <p>
-                        Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Paisis, filhis, espiritis santis. Manduma pindureta quium dia nois paga. Delegadis gente finis, bibendum egestas augue arcu ut est.
+                        Aos realizar a inscrição, o visitante da página recebe um email de confirmação e é registrado no banco de dados. Há dois caminhos para realizar a inscrição: através da página principal e através da página do fornecedor.
+                    </p>
+                    <p>
+                        Todas as informações coletadas são utilizadas pela equipe da Feira de Noivas para realizar o planejamento estratégico, ter uma perspectiva da participação e entrar em contato com os fornecedores.
                     </p>
                 </div>
 

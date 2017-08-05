@@ -2,14 +2,14 @@
 
 @section('og')
    <meta property="og:title" content="Sua marca é sua presença web">
-    <meta property="og:description" content="Sublimefts - Serviço desenvolvido pela Modeon Devhouse de criação de marca, site e impressos.">
+    <meta property="og:description" content="SublimeFts - Serviço desenvolvido pela Modeon Devhouse de criação de marca, site e impressos.">
     <meta property="og:url" content="http://www.modeon.co/portfolio/sublimefts">
     <meta property="og:site_name" content="Modeon Devhouse">
     <meta property='og:image' content="http://www.modeon.co/img/portfolio_01.jpg">
     <meta property="og:type" content="website">
 @endsection
 
-@section('title', 'Modoen Devhouse - Sublimefts')
+@section('title', 'Modeon Devhouse - SublimeFts')
 
 @section('menu-links')
     <li><a href="/">Início</a></li>
@@ -35,13 +35,13 @@
                       <!-- Wrapper for slides -->
                       <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                          <img src="/img/portfolio/sublimefts/01.jpg" alt="Sublimefts">
+                          <img src="/img/portfolio/sublimefts/01.jpg" alt="SublimeFts">
                         </div>
                         <div class="item">
-                          <img src="/img/portfolio/sublimefts/02.jpg" alt="Sublimefts">
+                          <img src="/img/portfolio/sublimefts/02.jpg" alt="SublimeFts">
                         </div>
                         <div class="item">
-                          <img src="/img/portfolio/sublimefts/03.jpg" alt="Sublimefts">
+                          <img src="/img/portfolio/sublimefts/03.jpg" alt="SublimeFts">
                         </div>
                       </div>
 
@@ -58,15 +58,15 @@
                 </div>
 
                 <div class="col-lg-4">
-                    <h3>Mussum</h3>
+                    <h3>SublimeFts</h3>
                     <p>
-                        Mussum Ipsum, cacilds vidis litro abertis. Suco de cevadiss deixa as pessoas mais interessantis. Quem num gosta di mé, boa gentis num é. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Si num tem leite então bota uma pinga aí cumpadi!
+                      <a href="http://www.sublimefts.com/" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i> http://www.sublimefts.com/</a>
                     </p>
                     <p>
-                        Per aumento de cachacis, eu reclamis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Atirei o pau no gatis, per gatis num morreus. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.
+                        A fotografia é apaixonante. Ter um olhar poético para eternizar os momentos mais sublimes da vida é o que faz toda a diferença a cada clique.
                     </p>
                     <p>
-                        Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Paisis, filhis, espiritis santis. Manduma pindureta quium dia nois paga. Delegadis gente finis, bibendum egestas augue arcu ut est.
+                        Criamos a marca e o site da SublimeFts. Levamos em consideração seu público alvo e leque de serviços. Toda a identidade visual foi pensada e acentuada para a percepção do público diante do posicionamento da empresa.
                     </p>
                 </div>
 
