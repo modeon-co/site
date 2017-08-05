@@ -22,7 +22,9 @@
                     <div class="spacer"></div>
                     <h2>Esteja a um clique de seu cliente</h2>
                     <div class="spacer"></div>
-                        <button type="button" class="btn btn-primary btn-lg">Entre em contato</button>
+                        <a href="#contact">
+                            <button type="button" class="btn btn-primary btn-lg">Entre em contato</button>
+                        </a>
                     <div class="spacer"></div>
                     <a href="#about"><i class="fa fa-angle-down"></i></a>
                     <div class="spacer"></div>
@@ -37,7 +39,7 @@
                 <h1>Sobre nós</h1>
                 <div class="col-lg-8 col-lg-offset-2">
                     <p>
-                        Somos uma empresa de desenvolvimento de software, gestão de marca e <i>social media</i>. Acreditamos que uma empresa que não se encontra na internet, na verdade não existe.
+                        Somos uma empresa de desenvolvimento de software, gestão de marca e gestão de mídias sociais. Acreditamos que uma empresa que não se encontra na internet na verdade não existe.
                     </p>
                     <hr>
                     <p>
