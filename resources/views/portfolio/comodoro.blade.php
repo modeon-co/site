@@ -2,7 +2,7 @@
 
 @section('og')
    <meta property="og:title" content="Sua marca é sua presença web">
-    <meta property="og:description" content="Comodoro - Serviço desenvolvido pela Modeon Devhouse de criação de marca.">
+    <meta property="og:description" content="Comodoro Clothing - Serviço desenvolvido pela Modeon Devhouse de criação de marca.">
     <meta property="og:url" content="http://www.modeon.co/portfolio/comodoro">
     <meta property="og:site_name" content="Modeon Devhouse">
     <meta property='og:image' content="http://www.modeon.co/img/portfolio_03.jpg">

@@ -5,7 +5,7 @@
     <meta property="og:description" content="Viva Leve - Serviço desenvolvido pela Modeon Devhouse de criação de marca.">
     <meta property="og:url" content="http://www.modeon.co/portfolio/vivaleve">
     <meta property="og:site_name" content="Modeon Devhouse">
-    <meta property='og:image' content="http://www.modeon.co/img/portfolio_06.jpg">
+    <meta property='og:image' content="http://www.modeon.co/img/portfolio_05.jpg">
     <meta property="og:type" content="website">
 @endsection
 
