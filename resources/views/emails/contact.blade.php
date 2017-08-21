@@ -92,8 +92,8 @@
           </tr>
           <tr>
             <td bgcolor="#ffffff" width="100" align="left">
-              <a href="https://modeon.co" target="_blank">
-                <img alt="Modeon" src="https://s21.postimg.org/f9eyk351j/modeon.png" width="119" style="height: auto; display: block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #666666; font-size: 16px;" border="0">
+              <a href="http://modeon.co" target="_blank">
+                <img alt="Modeon Devhouse" src="http://modeon.co/img/modeon.png" width="119" style="height: auto; display: block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #666666; font-size: 16px;" border="0">
               </a>
             </td>
             <td bgcolor="#ffffff" width="380" align="right">
@@ -121,7 +121,7 @@
                       <!-- CONTENT -->
                       <tr>
                         <!-- HEADING -->
-                        <td align="center" style="padding-bottom: 0; color: #333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 21px; font-weight: 300; line-height: 32px">Modeon</td>
+                        <td align="center" style="padding-bottom: 0; color: #333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 21px; font-weight: 300; line-height: 32px">Modeon Devhouse</td>
                       </tr>
                       <tr>
                         <!-- HEADING -->
@@ -166,7 +166,7 @@
                       <tr>
                         <!-- PARAGRAPH -->
                         <td align="center" style="padding-bottom: 25px; color: #474747; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: normal; line-height: 24px">Gratos,
-                          <br>Equipe Modeon</td>
+                          <br>Equipe Modeon Devhouse</td>
                       </tr>
                     </table>
                   </td>
