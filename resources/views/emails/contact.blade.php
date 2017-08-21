@@ -97,7 +97,7 @@
               </a>
             </td>
             <td bgcolor="#ffffff" width="380" align="right">
-              <a href="https://modeon.co" style="color: #28c176; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 400; line-height: 14px">Acessar o site</a>
+              <a href="http://modeon.co" style="color: #28c176; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 400; line-height: 14px">Acessar site</a>
             </td>
           </tr>
         </table>
