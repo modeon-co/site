@@ -23,9 +23,9 @@ class ContactController extends Controller
 
         Mail::send('emails.contact', ['title' => $title, 'content' => $content], function ($message) use ($in) {
             $message->subject("[Contato pelo site]");
-            $message->from('modeon.co@gmail.com', 'Modeon');
+            $message->from('suporte@modeon.co', 'Modeon Devhouse');
             $message->to($in->email);
-            $message->cc('modeon.co@gmail.com');
+            $message->cc('suporte@modeon.co');
         });
         return response()->json(['status' => 1, 'message' => 'Request completed']);
     }
